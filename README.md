@@ -1,2 +1,2 @@
 # urionlinejudge-c
-URI Online Judge Problem's Solutions in C
+URI Online Judge Problem's Solutions in Java/C.
